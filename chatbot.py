@@ -1,4 +1,3 @@
-api_key = "YksFcqIwZNVfnb7B1KWgnflKVVTs9O2u"
 from langchain_mistralai import ChatMistralAI
 from langchain_core.messages import HumanMessage, SystemMessage,AIMessage
 from langchain_core.output_parsers import StrOutputParser
